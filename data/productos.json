@@ -1,0 +1,178 @@
+[
+    {
+        "codigo": "ARTCIULO0001",
+        "nombre": "silla",
+        "descripcion":"descripcion de la silla con tallas",
+        "categoria": "muebles",
+        "imagen": "https://source.unsplash.com/400x400/?silla",
+        "cantidad": 44,
+		"valor":200,
+        "promocion": true,
+        "likes": 0
+    },
+    {
+        "codigo": "ARTICULO0002",
+        "nombre": "impresora laser",
+        "descripcion":"descripcion",
+        "categoria": "equipos",
+        "imagen": "https://source.unsplash.com/400x400/?impresora",
+        "cantidad": 25,
+		"valor":300,
+        "promocion": false,
+        "likes": 0
+    },
+    {
+        "codigo": "ARTICULO0003",
+        "nombre": "escaner",
+        "descripcion":"descripcion",
+        "categoria": "equipos",
+        "imagen": "https://source.unsplash.com/400x400/?printer",
+        "cantidad": 6,
+		"valor":200,
+        "promocion": true,
+        "likes": 0
+    },
+    {
+        "codigo": "ARTICULO0005",
+        "nombre": "cafetera",
+        "descripcion":"descripcion",
+        "categoria": "enceres",
+        "imagen": "https://source.unsplash.com/400x400/?cafetera",
+        "cantidad": 28,
+		"valor":200,
+        "promocion": true,
+        "likes": 0
+    },
+    {
+        "codigo": "ARTICULO0007",
+        "nombre": "mesa",
+        "descripcion":"descripcion",
+        "categoria": "muebles",
+        "imagen": "https://source.unsplash.com/400x400/?mesa",
+        "cantidad": 27,
+		"valor":200,
+        "promocion": false,
+        "likes": 0
+    },
+    {
+        "codigo": "ARTICULO0008",
+        "nombre": "fotocopiadora",
+        "descripcion":"descripcion",
+        "categoria": "equipos",
+        "imagen": "https://source.unsplash.com/400x400/?bussines",
+        "cantidad": 36,
+		"valor":200,
+        "promocion": false,
+        "likes": 0
+    },
+    {
+        "codigo": "ARTICULO0009",
+        "nombre": "monitor adicional",
+        "descripcion":"descripcion",
+        "categoria": "equipos",
+        "imagen": "https://source.unsplash.com/400x400/?monitor",
+        "cantidad": 42,
+		"valor":200,
+        "promocion": true,
+        "likes": 0
+    },
+    {
+        "codigo": "ARTICULO0010",
+        "nombre": "pizarra",
+        "descripcion":"descripcion",
+        "categoria": "muebles",
+        "imagen": "https://source.unsplash.com/400x400/?pizarra",
+        "cantidad": 23,
+		"valor":200,
+        "promocion": false,
+        "likes": 0
+    },
+    {
+        "codigo": "ARTICULO0012",
+        "nombre": "material de oficina",
+        "descripcion":"descripcion",
+        "categoria": "enceres",
+        "imagen": "https://source.unsplash.com/400x400/?material",
+        "cantidad": 25,
+		"valor":200,
+        "promocion": true,
+        "likes": 0
+    },
+    {
+        "codigo": "ARTICULO0020",
+        "nombre": "trapo para el polvo (1 paquete)",
+        "descripcion":"descripcion",
+        "categoria": "enceres",
+        "imagen": "https://source.unsplash.com/400x400/?trapo",
+        "cantidad": 9,
+		"valor":200,
+        "promocion": false,
+        "likes": 0
+    },
+    {
+        "codigo": "ARTICULO0022",
+        "nombre": "ordenador portatil",
+        "descripcion":"descripcion",
+        "categoria": "equipos",
+        "imagen": "https://source.unsplash.com/400x400/?ordenador",
+        "cantidad": 4,
+		"valor":200,
+        "promocion": false,
+        "likes": 0
+    },
+    {
+        "codigo": "ARTICULO0023",
+        "nombre": "ordenador",
+        "descripcion":"descripcion",
+        "categoria": "equipos",
+        "imagen": "https://source.unsplash.com/400x400/?ordenador",
+        "cantidad": 5,
+		"valor":200,
+        "promocion": false,
+        "likes": 0
+    },
+    {
+        "codigo": "ARTICULO0024",
+        "nombre": "mouse",
+        "descripcion":"descripcion",
+        "categoria": "equipos",
+        "imagen": "https://source.unsplash.com/400x400/?mouse",
+        "cantidad": 7,
+		"valor":200,
+        "promocion": false,
+        "likes": 0
+    },
+    {
+        "codigo": "ARTICULO0025",
+        "nombre": "tornillos",
+        "descripcion":"descripcion",
+        "categoria": "equipos",
+        "imagen": "https://source.unsplash.com/400x400/?tornillos",
+        "cantidad": 8,
+		"valor":200,
+        "promocion": false,
+        "likes": 0
+    },
+    {
+        "codigo": "ARTICULO0026",
+        "nombre": "cajas",
+        "descripcion":"descripcion",
+        "categoria": "equipos",
+        "imagen": "https://source.unsplash.com/400x400/?cajas",
+        "cantidad": 4,
+		"valor":200,
+        "promocion": false,
+        "likes": 0
+    },
+    {
+        "codigo": "ARTICULO0027",
+        "nombre": "licencias",
+        "descripcion":"descripcion",
+        "categoria": "equipos",
+        "imagen": "https://source.unsplash.com/400x400/?ios",
+        "cantidad": 4,
+		"valor":200,
+        "promocion": false,
+        "likes": 0
+    }
+]
